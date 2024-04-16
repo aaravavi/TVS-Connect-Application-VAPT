@@ -44,11 +44,15 @@ Total of 02 risks were identified during the test.
 
 
 <p align="center">
-  <img src="img/summaryOfVulnerabilities.png" alt="Summary of Vulnerabilities" width="400" height="300" />
+  <img src="img/summaryOfVulnerabilities.png" alt="Summary of Vulnerabilities" />
+  <br>
+  <em>Summary of Vulnerabilities</em>
 </p>
 
 <p align="center">
   <img src="img/GraphicalRepresentation.png" alt="Graphical View" width="400" height="300" />
+  <br>
+  <em>GraphicalRepresentation.png</em>
 </p>
 
 ## Detailed Description of the Vulnerabilities and Findings
