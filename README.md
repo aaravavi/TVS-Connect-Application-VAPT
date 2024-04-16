@@ -28,7 +28,6 @@ A security evaluation was conducted on the application to pinpoint possible weak
   
   LinkedIn Profile: [https://in.linkedin.com/in/aarav-sinha-749047159](#)
 
-## Research Team
 
 - **Vaishali Nagori**
   Senior Security Researcher, FEV India Pvt Ltd.
@@ -43,9 +42,14 @@ A security evaluation was conducted on the application to pinpoint possible weak
 
 Total of 02 risks were identified during the test.
 
-![Summary of Vulnerabilities](img/summaryOfVulnerabilities.png)
 
-![Graphical View](img/GraphicalRepresentation.png)
+<p align="center">
+  <img src="img/summaryOfVulnerabilities.png" alt="Summary of Vulnerabilities" width="400" height="300" />
+</p>
+
+<p align="center">
+  <img src="img/GraphicalRepresentation.png" alt="Graphical View" width="400" height="300" />
+</p>
 
 ## Detailed Description of the Vulnerabilities and Findings
 
