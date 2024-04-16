@@ -65,4 +65,4 @@ Total of 02 risks were identified during the test.
 
 #### Logical Flaw: ADD and DELETE Emergency Contact for Any User
 
-![Logical Flaw: ADD and DELETE Emergency Contact for Any User](vid/video2.mp4)
+![Logical Flaw: ADD and DELETE Emergency Contact for Any User](vid/video2.gif)
