@@ -41,7 +41,7 @@ A security evaluation was conducted on the application to pinpoint possible weak
 
 ## Summary
 
-Text summary goes here.
+Total of 02 risks were identified during the test.
 
 ![Summary of Vulnerabilities](img/summaryOfVulnerabilities.png)
 
