@@ -40,10 +40,12 @@ Total of 02 risks were identified during the test.
 ### Vulnerabilities
 
 #### Unauthenticated Access to Service History of Any Users
+#### CVE-2024-33309
 
 ![Unprotected API: Access to Service Histories of any Users](vid/TVS_information_Disclosure.gif)
 
 #### Logical Flaw: ADD and DELETE Emergency Contact for Any User
+#### CVE-2024-33308
 
 ![Logical Flaw: ADD and DELETE Emergency Contact for Any User](vid/video2.gif)
 
