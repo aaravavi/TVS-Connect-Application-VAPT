@@ -11,7 +11,7 @@ This repository contains a detailed list of all the vulnerabilities, found accor
     - [Vulnerabilities](#vulnerabilities)
         - [Unauthenticated Access to Service History of Any Users](#unauthenticated-access-to-service-history-of-any-users)
         - [Logical Flaw: ADD and DELETE Emergency Contact for Any User](#logical-flaw-add-and-delete-emergency-contact-for-any-user)
-        - [Broken Cryptography: Leaked secrets on Android and iOS application platforms](broken-cryptography-leaked-secrets-on-android-and-iOS-application-platforms)
+        - [Broken Cryptography: Leaked secrets on Android and iOS application platforms](#broken-cryptography-leaked-secrets-on-android-and-iOS-application-platforms)
 
 ## Introduction
 TVS Connect is a mobile application designed to streamline communication and enhance connectivity between TVS vehicle owners and their vehicles. It aims to provide users with convenience and peace of mind by offering real-time updates and personalized assistance for their vehicles.
@@ -53,7 +53,7 @@ Total of 02 risks were identified during the test.
 #### Broken Cryptography: Leaked secrets on Android and iOS application platforms
 #### CVE-2024-35537
 
-## Please refer to `TVS_Application_Penetration_Testing_Report_secrets.pdf` for detailed information.
+##### Please refer to `TVS_Application_Penetration_Testing_Report_secrets.pdf` for detailed information.
 
 ## Pentesters
  - **Aarav Sinha** [https://in.linkedin.com/in/aarav-sinha-749047159](#)
