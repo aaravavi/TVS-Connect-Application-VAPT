@@ -1,4 +1,5 @@
 # TVS Connect Mobile Application
+## APP version: Android 4.6.0, iOS 5.0.0
 This repository contains a detailed list of all the vulnerabilities, found accorss the TVS Connect mobile application by the security team at FEV LTD.
 
 
